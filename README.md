@@ -2,7 +2,7 @@
 
 一款使用 SwiftUI 与 AppKit 开发的 macOS 菜单栏文件托盘。
 
-[下载 macOS 安装包](https://github.com/scw13486307002-source/Tray/releases/latest)
+[下载 macOS 安装包](https://github.com/Daniel-shan07/Tray/releases/latest)
 
 ![Tray 磨砂玻璃界面](docs/preview.png)
 
