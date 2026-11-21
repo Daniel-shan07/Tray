@@ -1,0 +1,30 @@
+{
+  "fill": {
+    "solid": "srgb:1,1,1,1"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "Cards.png",
+          "name": "Cards",
+          "glass": false
+        }
+      ],
+      "specular": false,
+      "translucency": {
+        "enabled": false,
+        "value": 0
+      },
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}
